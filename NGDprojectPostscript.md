@@ -36,4 +36,4 @@ Postscript Notes by planetes00@gmail.com
  *프로세싱을  사용하였습니다!
  
  
- 你知道天的定例麼、能使地歸在天的權下麼。
+ _你知道天的定例麼、能使地歸在天的權下麼。
